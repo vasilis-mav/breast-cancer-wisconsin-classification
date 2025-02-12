@@ -4,7 +4,8 @@ Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Ca
 This notebook demonstartes a basic usage of machine learning alogorithms on the dataset provided.
 The best results were given by XGBoost:
 Accuracy: 0.99
-precision recall f1-score support
+
+              precision    recall  f1-score  support
 
            B       0.98      1.00      0.99       108
            M       1.00      0.97      0.98        63
